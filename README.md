@@ -11,6 +11,8 @@ npm i
 yarn
 
 json-server --watch db.json # Must run on port 3000
+# or
+npm start
 ```
 
 You can also install JSON Server globally:
