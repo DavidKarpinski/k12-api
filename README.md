@@ -19,7 +19,7 @@ In case of an error like: `Some error occurred Error: listen EADDRINUSE: address
 This is because some project is already running on port 3000 and to do so, simply add a different number such as `-p=<portnumber>` as shown in the example:
 
 ```
-json-server --watch db.json -p=3001
+json-server --watch db.json -p=4000
 ```
 
 It is worth mentioning that any port change in the API will require adaptations to the code of the programs that use it.
