@@ -1,5 +1,5 @@
 # k12-api
-API required for Blog K-12 project and related dependencies
+"API" required for Blog K-12 project and related dependencies
 
 ## Installation
 
