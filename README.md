@@ -13,6 +13,13 @@ yarn
 json-server --watch db.json # Must run on port 3000
 ```
 
+You can also install JSON Server globally:
+
+```bash
+npm i json-server -g
+```
+
+
 By default, JSON Server runs on https://localhost:3000.
 
 In case of an error like: `Some error occurred Error: listen EADDRINUSE: address already in use ::1:3000`, 
