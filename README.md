@@ -1,4 +1,4 @@
-# local_api
+# k12_api
 API required for Blog K-12 project
 
 ## Installation
